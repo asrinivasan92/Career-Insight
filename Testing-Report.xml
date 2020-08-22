@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test-Suite name="UiPath Project - Test Automation" total="4" passed="4" failures="0" execution-date="08/10/2020 18:03:26" total-time="00:08:10">
+  <Result>
+    <TestScenario>PI - image</TestScenario>
+    <TestName>CareerInsight-Enroll</TestName>
+    <Started>08/10/2020 18:01:26</Started>
+    <Ended>08/10/2020 18:03:26</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>PI Test</TestScenario>
+    <TestName>CareerInsight-Enroll</TestName>
+    <Started>08/10/2020 18:06:09</Started>
+    <Ended>08/10/2020 18:09:26</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Enroll Chrome</TestScenario>
+    <TestName>CareerInsight-Enroll</TestName>
+    <Started>08/10/2020 18:10:03</Started>
+    <Ended>08/10/2020 18:12:17</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Assert_Test</TestScenario>
+    <TestName>CareerInsight-Enroll</TestName>
+    <Started>08/10/2020 18:12:17</Started>
+    <Ended>08/10/2020 18:12:56</Ended>
+    <Status>PASSED</Status>
+  </Result>
+</Test-Suite>
