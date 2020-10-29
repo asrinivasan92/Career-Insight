@@ -1771,9 +1771,9 @@
     "restore": {
       "projectUniqueName": "Career Insight",
       "projectName": "Career Insight",
-      "projectPath": "C:\\Users\\asrinivasan\\Desktop\\Career-Insight\\.local",
+      "projectPath": "C:\\Users\\asrinivasan\\Desktop\\Projects\\Career-Insight\\.local",
       "packagesPath": "C:\\Users\\asrinivasan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asrinivasan\\Desktop\\Career-Insight\\.local"
+      "outputPath": "C:\\Users\\asrinivasan\\Desktop\\Projects\\Career-Insight\\.local"
     },
     "frameworks": {
       "net461": {
